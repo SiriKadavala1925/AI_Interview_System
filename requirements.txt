@@ -1,0 +1,4 @@
+streamlit
+pypdf
+ollama
+pandas
